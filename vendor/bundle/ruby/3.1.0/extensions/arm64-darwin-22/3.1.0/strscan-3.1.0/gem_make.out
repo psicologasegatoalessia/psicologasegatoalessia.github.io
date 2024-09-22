@@ -1,0 +1,18 @@
+current directory: /Users/paolo/code/academicpages.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+/Users/paolo/.rbenv/versions/3.1.3/bin/ruby -I /Users/paolo/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/paolo/code/academicpages.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240627-91189-al4nnv sitelibdir\=./.gem.20240627-91189-al4nnv clean
+
+current directory: /Users/paolo/code/academicpages.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240627-91189-al4nnv sitelibdir\=./.gem.20240627-91189-al4nnv
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/paolo/code/academicpages.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240627-91189-al4nnv sitelibdir\=./.gem.20240627-91189-al4nnv install
+/opt/homebrew/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20240627-91189-al4nnv
