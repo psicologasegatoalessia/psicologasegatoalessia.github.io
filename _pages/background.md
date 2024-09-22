@@ -16,7 +16,7 @@ Nel 2021 ho completato la scuola di **specializzazione in psicoterapia** ad orie
 
 Tra il 2019 e il 2020 ho superato il primo e il secondo livello di formazione in **terapia EMDR** (*Eye Movement Desensitization and Reprocessing*).
 
-Friulana di origine, dal 2023 vivo a Trento dopo un periodo di vita all'estero, a Leuven (Belgio).
+Friulana di origine, dal 2023 vivo a Trento dopo un periodo di vita a Leuven (Belgio).
 
 
 Ho rivestito i ruoli di psicologa, coordinatrice e responsabile del settore salute mentale presso una Cooperativa Sociale nel pordenonese.
