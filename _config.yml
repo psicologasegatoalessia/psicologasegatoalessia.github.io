@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Psicologa Segato Alessia"
+title                    : "Dott.ssa Segato Alessia - Psicologa Psicoterapeuta"
 title_separator          : "-"
 name                     : &name "Dott.ssa Segato Alessia"
 description              : &description ""
@@ -22,7 +22,7 @@ repository               : "psicologasegatoalessia/psicologasegatoalessia.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Psicologa Psicoterapeuta"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Psicologa, Psicoterapeuta sistemico-familiare, Terapeuta EMDR, Volontaria in psicologia dell'emergenza"
   location         : "Trento, Italia"

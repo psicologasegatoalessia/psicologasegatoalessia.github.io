@@ -7,27 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-### Research
 
-I am a computer science researcher affiliated with the University of Trento.
+Mi occupo di tutela, diagnosi e cura della salute mentale di giovani, adulti, coppie e famiglie.
+Offro percorsi di sostegno psicologico e psicoterapia a Trento e online per italiani all’estero. 
+Svolgo anche colloqui in lingua inglese.
 
-My research lies at the intersection of machine learning and automated reasoning,\
-with a focus on **probabilistic inference** with **algebraic** and **logical constraints**.
+### Per informazioni e appuntamenti:
 
-I am currently fully supported by a Marie Skłodowska-Curie Action fellowship.\
-The project aims at advancing the trustworthiness of AI systems by developing verification tools
-that provide formal guarantees on their correctness.
-More info [here](/pfv4wmi "pfv4wmi").
+Tel: (+39) 371 7815811
+Email: psicologasegatoalessia@gmail.com
+Indirizzo: Via S.S. Trinità n.4, 38122 Trento (TN)
 
-As a side project, I am investigating the use of machine learning for the procedural generation of content in games, with a particular interest in functional content (e.g. levels, rules) that must satisfy hard constraints.
-More info [here](/pcgml "pcgml").
+[Albo dell’Ordine degli Psicologi](https://ordinepsicologi.tn.it/albo-ordine-psicologi/segato-alessia/)
 
+[Linkedin](https://www.linkedin.com/in/alessia-segato-39a71ba0)
 
-
-### Teaching
-
-I am teaching assistant for the course Foundamentals of AI.
-You can find the material [here](https://drive.google.com/drive/u/1/folders/1IG6U-RgQOhJwt3YoNFHh0Cmqyv1MvvrI "(there)").
-
-I am offering a number of MSc thesis projects on the topics above. Contact me if interested!
 
