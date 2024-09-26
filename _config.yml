@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "<p align=center> Psicologa,</p> <p align=center>Psicoterapeuta sistemico-relazionale,</p> <p align=center> Terapeuta EMDR </p>"
+  bio              : "<p align=center> Psicologa, <br> Psicoterapeuta sistemico-relazionale, <br> Terapeuta EMDR </p>"
   location         : #"Trento, Italia"
   employer         : # ""
   uri              : # URL
